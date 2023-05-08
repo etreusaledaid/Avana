@@ -20,7 +20,7 @@ El CRUD(Create(Crear), Read(Leer), Update(Actualizar) y Delete(Borrar)) para el 
 *MATERIALES
 
 ## Instalación
-Requiere una conexión a una base de datos relacional y estar ejecutandose en un servidor con Apache y php.
+Requiere una conexión a una base de datos relacional y estar ejecutandose en un servidor con Apache y PHP.
 
 ![Badge HTML](https://img.shields.io/badge/HTML%20-red)
 ![Badge CSS](https://img.shields.io/badge/CSS%20-blue)
