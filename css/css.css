@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font: 0.8em "Lucida Sans Unicode", "Lucida Grande", Arial, Helvetica, sans-serif;color: #343434;background: #121212;margin: 0;padding: 0;}
+h1, h2, h3, h4, h5{color:#d8d8d8;}
+p{color:white;}
+a:link{text-decoration: none;}
+a:hover{color:white;}
+input[type="text"]{border-radius:8px;resize:none;}
+input[type="text"]::-webkit-input-placeholder { color: #555; font-weight :bold; }
+input[type="text"]:-moz-placeholder { color: #555; font-weight: bold; }
+input[type="text"]::-moz-placeholder { color: #555; font-weight: bold; }
+input[type="text"]:-ms-input-placeholder { color: #555; font-weight: bold; }
+textarea{border-radius:8px;resize:none;width:100%;height:auto;}
+textarea::-webkit-input-placeholder { color: #555; font-weight :bold; }
+textarea:-moz-placeholder { color: #555; font-weight: bold; }
+textarea::-moz-placeholder { color: #555; font-weight: bold; }
+textarea:-ms-input-placeholder { color: #555; font-weight: bold; }
+td{color:white;width:100%;}
+#wrapper{margin: 30px auto;background: #0d0d0d url(images/header.jpg) no-repeat;padding: 0px 25px 25px 25px;border: 12px solid #2e2e2e;position:relative;overflow-y:scroll;height:450px;}
+#nav{list-style: none;padding: 0;margin: 10px 0 20px 0;background: #2e2e2e url(images/nav_bar.jpg) repeat-x;display: block;overflow: hidden;font-size: 0.9em;text-transform:capitalize;}
+#nav li {display: inline;}
+#nav li a{display: block;float: left;padding: 10px 20px;color: white;text-decoration: none;}
+#nav li a:hover {background:#1b1b1b url(images/nav_bar_o.jpg)repeat-x;}
+#content img.right{float: right;margin: 0 0 8px 8px;}
+.top{margin-top:0%;}
+.text{border-style:none;border-radius:4px;background:#d8d8d8;}
+.button{border-style:none;background:#009fe3;color:white;padding:14px;}
+.tip{color:white;background:#000;border:none;font-size:30px;}
+#botones_paypal{width:auto;height:500px; overflow:scroll;}
+#botones_paypal_2{height:300px; overflow:scroll;}
+#not_found{border-radius: 8px;width:70%;height:auto;}
+.not_found_2{padding-left: 14%;padding-right: 14%;text-align:justify;font-size: 3em;}
+/*.ocultar{display:none;}*/
+.mediano, .grande{display:none;}
