@@ -4,9 +4,7 @@
     <title>AVANA</title>
      
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Seguridad informatica">
-    <meta name="keywords" content="yussel,esime,seguridad,informatica,lenguajes">
-    <meta name="author" content="yussel">
+    <meta name="description" content="Avana">
     <meta charset="UTF-8">
 
     <link rel="shortcut icon" href="images/images.png" type="image/x-icon">
