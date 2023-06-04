@@ -102,11 +102,9 @@
 </body>
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript">
-    <!--
         $().ready(function() {
             $("#frmlogin").validate();
             $("#usuario").focus();
         });
-    // -->
     </script>
 </html>
